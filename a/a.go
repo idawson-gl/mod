@@ -1,7 +1,7 @@
 package a
 
 import (
-	"github.com/idawson-gl/a/b"
+	"github.com/idawson-gl/mod/a/b"
 )
 
 func A() {
